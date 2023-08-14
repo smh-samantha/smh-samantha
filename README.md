@@ -6,9 +6,14 @@
 
 ## Welcome to My Fullstack Journey! 👋
 
+I'm a second-year mechanical engineering and compsci student at **UNSW** and a junior developer at **NUKON** where I've had the opportunity to work on SCADA systems and get involved in real-world software development projects. 
+Whenever else I can, I'm a Freelance Developer. 
 
 
+## 🌀 Projects in Motion 
 
-## Hey there!
+- Freelance Website Overhaul
+- Cross-Platform Calendar
+- IDE Overlay Application
 
-I'm a fourth-year student and casual academic at **UNSW Sydney**. Most of my commits at the moment are related to teaching, working on educational tools, and (private) contributions to COMP1521 course materials/infrastructure.
+## 🚀 Other interests 
