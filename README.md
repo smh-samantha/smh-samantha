@@ -10,10 +10,10 @@ I'm a second-year mechanical engineering and compsci student at **UNSW** and a j
 Whenever else I can, I'm a Freelance Developer. 
 
 
-## 🌀 Projects in Motion 
+# 🌀 Projects in Motion 
 
 - Freelance Website Overhaul
 - Cross-Platform Calendar
 - IDE Overlay Application
 
-## 🚀 Other interests 
+# 🚀 Other interests 
