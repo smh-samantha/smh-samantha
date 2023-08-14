@@ -17,3 +17,5 @@ Whenever else I can, I'm a Freelance Developer.
 - **IDE Overlay Application:** 
 
 ### Other interests 🚀
+- **Rocketry:** I'm working towards my HPR L1 certification with the UNSW rocketry team. I've also previously contributed to the teams' flight dynamics simulators.
+- **MERV:** Working on MQU's Macquarie Estuarine Research Vessel (merv) where I design and print the housing for any onboard elements.
