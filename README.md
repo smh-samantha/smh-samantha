@@ -6,7 +6,7 @@
 
 # Welcome to My Fullstack Journey! 👋
 
-Hello there! I'm thrilled to take you on a tour of my coding world – a place where creativity meets functionality and where front-end elegance seamlessly merges with back-end robustness. As an employer seeking an ideal fullstack candidate, you've come to the right place. Here's a glimpse of what makes me the perfect fit for your team:
+
 
 
 ## Hey there!
