@@ -1,6 +1,6 @@
 
 
-![Hey There](resources/intro.png)
+![Hey There](resources/introbanner.png)
 
 
 
