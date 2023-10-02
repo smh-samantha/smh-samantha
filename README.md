@@ -16,7 +16,3 @@ Whenever else I can, I'm a Freelance Developer.
 - **Freelance Website Overhaul:** I'm currently working on a complete website overhaul, covering everything from designing its look and feel to building and testing. 
 - **Cross-Platform Calendar:** A calendar application that will serve as a conglomerate of my organisational diaries - without all the extra clutter and frills in the latest scheduling applications. 
 - **IDE Overlay Application:** 
-
-### Other interests 🚀
-- **Rocketry:** I'm working towards my HPR L1 certification with the UNSW rocketry team. I've also previously contributed to the teams' flight dynamics simulators.
-- **MERV:** Working on MQU's Macquarie Estuarine Research Vessel (merv) where I design and print the housing for any onboard elements.
